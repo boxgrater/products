@@ -1,0 +1,15 @@
+{
+    "name": "boxgrater/products",
+    "description": "BoxGrater Products Component.",
+    "keywords": ["component", "boxgrater", "products"],
+    "license": "MIT",
+    "type": "package",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "BoxGrater\\Products\\": ""
+        }
+    }
+}
